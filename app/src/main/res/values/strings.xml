@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Drinking Game</string>
+    <string name="Game_Over">Game Over!</string>
+    <string name="Finished">Home</string>
+    <string name="Player_Name">Player Name</string>
+    <string name="Add_Player">Add Player</string>
+    <string name="Play">Play!</string>
+    <string name="Happy_Birthday">Happy Birthday Alice!</string>
+    <string name="back">Back</string>
+    <string name="player">Players: </string>
+    <string name="rule">Rule!</string>
+</resources>
